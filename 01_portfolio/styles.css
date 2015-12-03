@@ -1,5 +1,23 @@
+/*Default styles*/
 li {
   list-style-type: none;
+}
+
+.btn {
+  font-size: 18px;
+  letter-spacing: 1px;
+  margin-top: 4px;
+  color: white;
+  border: white;
+  border-style: solid;
+  border-width: 2px;
+  background: rgba(10,10,10,0.6);
+  width: 180px;
+}
+
+.btn:hover {
+  background-color: white;
+  border-color: black;
 }
 
 .aboveFold {
@@ -25,7 +43,7 @@ li {
 .aboveFold .container h1 {
   -webkit-text-stroke: 1px white;
   font-size: 50px;
-  color: brown;
+  color: black;
 }
 
 .aboveFold .container .row {
@@ -33,22 +51,17 @@ li {
   margin-left: 120px;
 }
 
-.btn {
-  font-size: 18px;
-  letter-spacing: 1px;
-  margin-top: 4px;
-  background-color: lightgray;
-  color: black;
-  width: 180px;
-}
-
 .bio {
   height: 600px;
   text-align: left;
-  background-color: #3B0160;
+  background:
+    radial-gradient(black 15%, transparent 16%) 0 0,
+    radial-gradient(black 15%, transparent 16%) 8px 8px,
+    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px,
+    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+  background-color: #282828;
   color: white;
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-size: 16px 16px;
   background-position-x: 50%;
   background-position-y: 50%;
   font-size: 23px;
@@ -75,12 +88,48 @@ li {
   color: white;
 }
 
+.projects img {
+  max-width: 78%;
+  height: auto;
+  margin-top: 20px;
+}
+
+.project-image-overlay {
+  color: white;
+  text-align: center;
+  background:
+    radial-gradient(black 15%, transparent 16%) 0 0,
+    radial-gradient(black 15%, transparent 16%) 8px 8px,
+    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px,
+    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+  background-color: #282828;
+  background-size: 16px 16px;
+  max-width: 78%;
+  margin-top: -30px;
+  position: relative;
+  margin-bottom: 10px;
+  padding: 1px;
+}
+
+.project-image-overlay-header {
+   margin-top: 10px;
+}
+
+.project-image-overlay-description {
+   margin-top: -4px;
+   font-style: italic;
+}
+
 .blog {
   height: 600px;
-  background-color: #3B0160;
+  background:
+    radial-gradient(black 15%, transparent 16%) 0 0,
+    radial-gradient(black 15%, transparent 16%) 8px 8px,
+    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px,
+    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+  background-color: #282828;
   color: white;
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-size: 16px 16px;
   background-position-x: 50%;
   background-position-y: 50%;
 }
@@ -94,24 +143,29 @@ li {
   background-position-y: 50%;
   background-attachment: fixed;
   color: white;
+}
+
+#connectMsg {
+  margin-top: 160px;
   text-align: center;
+}
+
+.connect .row {
+  text-align: right;
+}
+
+.btn-connect {
+  margin: 5px;
 }
 
 footer {
   height: 150px;
-
 }
 
 #footerList {
   margin-top: 20px;
 }
 
-.projects img {
-  max-width: 100%;
-  height: auto;
-  padding: 10px;
-}
-
-#connectMsg {
-  margin-top: 160px;
+footer li a {
+  color: white;
 }

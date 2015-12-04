@@ -473,69 +473,129 @@ $(document).ready(function() {
     source: "Fox News/Facebook Top Ten First Tier debate transcript , Aug 6, 2015"
    },
    {
-    quote: ""
+    quote: "If we have another 3 or 4 years--we're at $8 trillion now--we're soon going to be at $20 trillion. According to the economists--who I'm not big believers in, but, nevertheless, this is what they're saying--that $24 trillion--we're very close--that's the point of no return. $24 trillion. We will be there soon. That's when we become Greece. That's when we become a country that's unsalvageable. And we're gonna be there very soon."
+    speaker: "Donald Trump",
+    topic: "Budget & Economy",
+    source: "2015 announcement speeches of 2016 presidential hopefuls , Jun 16, 2015"
+   },
+   {
+    quote: "I think the big problem this country has is being politically correct. I don't have time for total political correctness. And to be honest with you, this country doesn't have time either. This country is in big trouble. We don't win anymore. We lose to China. We lose to Mexico both in trade and at the border. We lose to everybody. And frankly, what I say, and oftentimes it's fun, it's kidding. We have a good time. What I say is what I say. But you know, we need strength, we need energy, we need quickness and we need brain in this country to turn it around."
+    speaker: "Donald Trump",
+    topic: "Civil Rights",
+    source: "Fox News/Facebook Top Ten First Tier debate transcript , Aug 6, 2015"
+   },
+   {
+    quote: "We need to lower the U.S. corporate tax rate from 39 percent to zero. America's corporate tax rate is the second highest on the planet. The international average is 26 percent. How can we expect companies to hire American workers and locate their business in America when our government taxes them at exorbitant rates for doing so?"
+    speaker: "Donald Trump",
+    topic: "Corporations",
+    source: "Time to Get Tough, by Donald Trump, p. 63 , Dec 5, 2011"
+   },
+   {
+    quote: "Well, I just think that the booming economy that we create by my plan would keep the money here because it's incentive. They're going to want to be where the action is. They're going to want to be where the good economy is. And they move their money around, hey, including me. You move your money around where the action is, and now it's a real world economy. But this country would be booming. We'd have no debt. It would be unbelievable."
+    speaker: "Donald Trump",
+    topic: "Corporations",
+    source: "Marcus Baram on Huffington Post, Apr 26, 2011"
+   },
+   {
+    quote: "[As president I'd] end Common Core. Common Core is a disaster... Education has to be local."
+    speaker: "Donald Trump",
+    topic: "Education",
+    source: "2015 announcement speeches of 2016 presidential hopefuls , Jun 16, 2015"
+   },
+   {
+    quote: "Until we get this country's lifeblood--oil--back down to reasonable rates, America's economy will continue to slump, jobs won't get created, and American consumers will face ever-increasing prices."
+    speaker: "Donald Trump",
+    topic: "Energy & Oil",
+    source: "Time to Get Tough, by Donald Trump, p. 15-16 , Dec 5, 2011"
+   },
+   {
+    quote: "Did you know that with the natural gas reserves we have in the United States we could power America's energy needs for the next 110 years? Those aren't my estimations, that's what the United States Energy Department's Energy Information Administration says. In fact, one of the largest mother lodes of natural gas, the Marcellus Shale, could produce the energy equivalent of 87 billion barrels of oil. Some critics believe those numbers might be inflated. Fine. Let's say the real number is fifty-five years of energy. Or that we only get 43 billion barrels' worth of energy. So what? That buys us more time to innovate and develop newer, more efficient, cleaner, and cheaper forms of energy."
+    speaker: "Donald Trump",
+    topic: "Energy & Oil",
+    source: "Time to Get Tough, by Donald Trump, p. 24 , Dec 5, 2011"
+   },
+   {
+    quote: "China is bilking us for hundreds of billions of dollars by manipulating and devaluing its currency. Despite all the happy talk in Washington, the Chinese leaders are not our friends. I've been criticized for calling them our enemy. But what else do you call the people who are destroying your children's and grandchildren's future? What name would you prefer me to use for the people who are hell bent on bankrupting our nation, stealing our jobs, who spy on us to steal our technology, who are undermining our currency, and who are ruining our way of life? To my mind, that's an enemy. If we're going to make America number one again, we've got to have a president who knows how to get tough with China, how to out-negotiate the Chinese, and how to keep them from screwing us at every turn."
+    speaker: "Donald Trump",
+    topic: "Foreign Policy",
+    source: "Time to Get Tough, by Donald Trump, p. 2 , Dec 5, 2011"
+   },
+   {
+    quote: "I love America. And when you love something, you protect it passionately--fiercely, even. We are the greatest country the world has ever known. I make no apologies for this country, my pride in it, or my desire to see us become strong and rich again. After all, wealth funds our freedom. But for too long we've been pushed around, used by other countries, and ill-served by politicians in Washington who measure their success by how rapidly they can expand the federal debt, and your tax burden, with their favorite government programs."
     speaker: "Donald Trump",
     topic: "",
+    source: "Budget & Economy"
+   },
+   {
+    quote: "Ford announces a few weeks ago that Ford is going to build a $2.5 billion car and truck and parts manufacturing plant in Mexico. I would call up the head of Ford, if I was president, I'd say, \"Congratulations. I understand that you're building a nice $2.5 billion car factory in Mexico and that you're going to take your cars and sell them to the US zero tax, just flow them across the border.\" And you say to yourself, \"How does that help us? Where is that good\"? It's not. So I would say, \"Let me give you the bad news. Every car and every part manufactured in this plant that comes across the border, we're going to charge you a 35% tax, and that tax is going to be paid simultaneously with the transaction. Now, if it's not me in the position, here's what's going to happen: They're going to get a call from the donors or from the lobbyist for Ford and say, \"I take care of you, and you can't do that to Ford.\" I'm using my own money. I'm not using the lobbyists. I'm not using donors. I don't care."
+    speaker: "Donald Trump",
+    topic: "Free Trade",
+    source: "2015 announcement speeches of 2016 presidential hopefuls , Jun 16, 2015"
+   },
+   {
+    quote: "Free trade can be wonderful if you have smart people, but we have people that are stupid. We have people that are controlled by special interests. And it's just not going to work."
+    speaker: "Donald Trump",
+    topic: "Free Trade",
+    source: "2015 announcement speeches of 2016 presidential hopefuls , Jun 16, 2015"
+   },
+   {
+    quote: "If I ask them, if I need them, you know, most of the people on this stage I've given to, just so you understand, a lot of money. I will tell you that our system is broken. I gave to many people, before this, before two months ago, I was a businessman. I give to everybody. When they call, I give. And do you know what? When I need something from them two years later, three years later, I call them, they are there for me. And that's a broken system... With Hillary Clinton, I said be at my wedding and she came to my wedding. You know why? She didn't have a choice because I gave to her foundation."
+    speaker: "Donald Trump",
+    topic: "Government Reform",
+    source: "Fox News/Facebook Top Ten First Tier debate transcript , Aug 6, 2015"
+   },
+   {
+    quote: "As far as single payer, it works in Canada. It could have worked in a different age. What I'd like to see is a private system without the artificial lines around every state. I have a big company with thousands of employees. And if I'm negotiating in BY or NJ or CA, I have like one bidder. Nobody can bid. You know why? Because the insurance companies are making a fortune because they have control of the politicians. They're making a fortune. Get rid of the artificial lines and you will have yourself great plans. And then we have to take care of the people that can't take care of themselves. And I will do that through a different system."
+    speaker: "Donald Trump",
+    topic: "Health Care",
+    source: "Fox News/Facebook Top Ten First Tier debate transcript , Aug 6, 2015"
+   },
+   {
+    quote: "We have a disaster called the big lie: ObamaCare. Yesterday, it came out that costs are going for people up 29, 39, 49, and even 55%, and deductibles are through the roof. You have to be hit by a tractor, literally, to use it, because the deductibles are so high, it's virtually useless. It is a disaster."
+    speaker: "Donald Trump",
+    topic: "Health Care",
+    source: "2015 announcement speeches of 2016 presidential hopefuls , Jun 16, 2015"
+   },
+   {
+    quote: "And it's going to get worse, because remember, ObamaCare really kicks in, in 2016. It is going to be amazingly destructive. Doctors are quitting. I have a friend who's a doctor, and he said to me, \"Donald, I never saw anything like it. I have more accountants than I have nurses.\""
+    speaker: "Donald Trump",
+    topic: "Health Care",
+    source: "2015 announcement speeches of 2016 presidential hopefuls , Jun 16, 2015"
+   },
+   {
+    quote: "If it weren't for me, you wouldn't even be talking about illegal immigration. This was not a subject that was on anybody's mind until I brought it up at my announcement. The fact is, since then, many killings, murders, crime, drugs are pouring across the border, our money going out and the drugs coming in. And I said we need to build a wall, and it has to be built quickly. And I don't mind having a big beautiful door in that wall so that people can come into this country legally. But we need to build a wall, we need to keep illegals out."
+    speaker: "Donald Trump",
+    topic: "Immigration",
+    source: "Fox News/Facebook Top Ten First Tier debate transcript , Aug 6, 2015"
+   },
+   {
+    quote: "People are smart. They know you can't be \"for\" jobs but against those who create them. It doesn't work. All raising taxes on businesses does is force business owners to lay off employees they can no longer afford. It also drives up prices, encourages businessmen and women to move their businesses (and their jobs) to other countries that have far lower tax rates and regulatory costs, and sends people scrambling for tax shelters."
+    speaker: "Donald Trump",
+    topic: "Jobs",
+    source: "Time to Get Tough, by Donald Trump, p. 54 , Dec 5, 2011"
+   },
+   {
+    quote: "As Republicans, if you think you are going to change very substantially for the worse Medicare, Medicaid and Social Security in any substantial way, and at the same time you think you are going to win elections, it just really is not going to happen... What we have to do and the way we solve our problems it to build a great economy."
+    speaker: "Donald Trump",
+    topic: "Social Security",
+    source: "2013 Conservative Political Action Conf. in Washington Times , Mar 15, 2013"
+   },
+   {
+    quote: "Social Security is here to stay. To be sure, we must reform it, root out the fraud, make it more efficient, and ensure that the program is solvent. Same goes for Medicare. Again, people have lived up to their end of the bargain and paid into the program in good faith. Of course they believe they're "entitled" to receive the benefits they paid for--they are!"
+    speaker: "Donald Trump",
+    topic: "Social Security",
+    source: "Time to Get Tough, by Donald Trump, p. 68-69 , Dec 5, 2011"
+   },
+   {
+    quote: ""
+    speaker: "Donald Trump",
+    topic: "Government Reform",
     source: ""
    },
    {
     quote: ""
     speaker: "Donald Trump",
-    topic: "",
-    source: ""
-   },
-   {
-    quote: ""
-    speaker: "Donald Trump",
-    topic: "",
-    source: ""
-   },
-   {
-    quote: ""
-    speaker: "Donald Trump",
-    topic: "",
-    source: ""
-   },
-   {
-    quote: ""
-    speaker: "Donald Trump",
-    topic: "",
-    source: ""
-   },
-   {
-    quote: ""
-    speaker: "Donald Trump",
-    topic: "",
-    source: ""
-   },
-   {
-    quote: ""
-    speaker: "Donald Trump",
-    topic: "",
-    source: ""
-   },
-   {
-    quote: ""
-    speaker: "Donald Trump",
-    topic: "",
-    source: ""
-   },
-   {
-    quote: ""
-    speaker: "Donald Trump",
-    topic: "",
-    source: ""
-   },
-   {
-    quote: ""
-    speaker: "Donald Trump",
-    topic: "",
-    source: ""
-   },
-   {
-    quote: ""
-    speaker: "Donald Trump",
-    topic: "",
+    topic: "Government Reform",
     source: ""
    },
   ];

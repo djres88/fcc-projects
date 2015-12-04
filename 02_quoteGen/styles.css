@@ -1,0 +1,52 @@
+body {
+  color: white;
+  text-align: center;
+  background: url(http://cdn1.theodysseyonline.com/files/2015/05/14/6356716951750313121587566559_election-2016.imgopt1000x70.jpg);
+  background-size: 100%;
+}
+
+button {
+  font-size: 20px;
+  color: white;
+  background-color: gray;
+  margin-top: 15px;
+  height: 55px;
+}
+
+button:hover {
+  background-color:darkblue;
+  color:red;
+  border-color:red;
+}
+
+.quoteBox {
+  background-color: black;
+  min-height: 100px;
+  max-width: 350px;
+  background: rgba(0,0,0,0.78);
+  text-align: center;
+  margin: auto;
+  margin-top: 30px;
+  padding: 15px;
+}
+
+.currentQuote {
+  display: none;
+  font-size: 15px;
+}
+
+.learn-more-links {
+  margin-top: 180px;
+  background-color: gray;
+}
+
+.learn-more-links ul {
+  list-style-type: none;
+  display: inline;
+  text-align: center;
+}
+
+a {
+  color: lightgray;
+  font-weight: bold;
+}

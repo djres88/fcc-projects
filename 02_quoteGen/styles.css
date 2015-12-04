@@ -1,15 +1,29 @@
 body {
   color: white;
   text-align: center;
-  background: url(http://cdn1.theodysseyonline.com/files/2015/05/14/6356716951750313121587566559_election-2016.imgopt1000x70.jpg);
+}
+.mainSection {
+  background: url(https://usatelections.files.wordpress.com/2015/07/21-2016ers1.jpg?w=1000&h=564);
   background-size: 100%;
+  min-height: 50em;
+
+}
+
+.top-header {
+  background: url(http://www.binodlaw.com/web/wp-content/uploads/2015/10/american-flag-header-tall.jpg);
+  background-size: cover;
+  min-height: 10em;
+}
+
+.title-headers {
+  -webkit-text-stroke: 1.5px gray;
 }
 
 button {
   font-size: 20px;
   color: white;
   background-color: gray;
-  margin-top: 15px;
+  margin-top: 45px;
   height: 55px;
 }
 
@@ -21,8 +35,8 @@ button:hover {
 
 .quoteBox {
   background-color: black;
-  min-height: 100px;
-  max-width: 350px;
+  min-height: 300px;
+  max-width: 550px;
   background: rgba(0,0,0,0.78);
   text-align: center;
   margin: auto;
@@ -31,13 +45,19 @@ button:hover {
 }
 
 .currentQuote {
+  padding: 15px;
   display: none;
   font-size: 15px;
+  text-align: justify;
+}
+
+#speaker {
+ font-weight: bold;
 }
 
 .learn-more-links {
-  margin-top: 180px;
   background-color: gray;
+  margin-top: -50px;
 }
 
 .learn-more-links ul {
